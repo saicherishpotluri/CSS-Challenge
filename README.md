@@ -7,7 +7,7 @@ Welcome to the "Simple CSS Projects" repository! This collection is designed to 
 1. **Project 1: Colorful Button**
 2. **Project 2: Simple Responsive Layout**
 3. **Project 3: Grid Gallery**
-4. **Project 4: **
+4. **Project 4: Flexbox Nav Bar**
 5. **Project 5: **
 6. **Project 6: **
 7. **Project 7: **
